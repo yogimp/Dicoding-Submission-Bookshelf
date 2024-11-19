@@ -21,8 +21,8 @@ This class is intended for individuals who want to step up to become a Back-End 
 ## 🛠️ How to Use the Application
 
 ### 1. **Environment**
-- **Node.js** (new version): [Download di sini](https://nodejs.org)
-- **Postman** (optional): [Download di sini](https://www.postman.com/downloads)
+- **Node.js** (new version): [Download here](https://nodejs.org)
+- **Postman** (optional): [Download here](https://www.postman.com/downloads)
 
 ### 2. **Clone Repository**
 Clone repository :
@@ -45,7 +45,7 @@ Run the application using the command :
 ```bash
 npm start
 ```
-Sserver will run at the default address : `http://localhost:5000`.
+Server will run at the default address : `http://localhost:5000`.
 
 ### 5. **API consumption**
 Use tools like Postman or curl to access the following endpoints:
